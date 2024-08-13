@@ -16,6 +16,7 @@ In-depth Analysis: Drill down into sales performance by various dimensions such 
 
 Trend Visualization: Identify trends and patterns in sales data to forecast future performance.
 
+
 Installation:
 1. Clone the Repository:
   On your terminal, copy this bash code
