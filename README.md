@@ -34,12 +34,11 @@ Usage:
 Navigating the Report: Use the tabs and filters to explore different views and metrics.
 Customizing Visuals: Modify the visualizations according to your reporting needs using Power BI's built-in tools.
 Exporting Reports: Export reports to PDF, Excel, or other formats for sharing and presentation purposes.
-Contributing
 
-License
+License:
 This project is licensed under the GNU LESSER GENERAL PUBLIC LICENSE Version 2.1, February 1999 License. See the LICENSE file for details.
 
-Contact
+Contact:
 For any questions or issues, please contact me at nihalamedkhan@gmail.com.
 
 Thank you for checking out the Pioneer Pathways Sales Report Power BI project. I hope this tool provides valuable insights and helps drive your sales success at your very own venture!
